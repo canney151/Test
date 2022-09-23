@@ -11,4 +11,8 @@ gh config set -h github.com git_protocol ssh
 
 git remote set-url origin git@github.com:canney151/Test.git
 
+git add filename
+git commmit -m "message"
+git push
+
 
