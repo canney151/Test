@@ -1,0 +1,14 @@
+sudo apt install gh
+
+gh auth login
+
+
+gh config set -h github.com git_protocol ssh
+
+
+
+
+
+git remote set-url origin git@github.com:canney151/Test.git
+
+
